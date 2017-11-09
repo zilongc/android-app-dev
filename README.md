@@ -6,9 +6,9 @@ http://www.vogella.com/tutorials/android.html
 
 ## 知识点
 
-### 应用的声明周期
+### 应用的生命周期
 
-### activity的声明周期
+### activity的生命周期
 
 ### activity的通信
 
