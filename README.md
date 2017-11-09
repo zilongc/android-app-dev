@@ -18,6 +18,8 @@ http://www.vogella.com/tutorials/android.html
 
 ### 控件自定义
 
+### 安全问题
+
 ## 问题
 
 - 安装apk，系统到底做了什么
