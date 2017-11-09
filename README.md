@@ -17,3 +17,7 @@ http://www.vogella.com/tutorials/android.html
 ### UI 控件
 
 ### 控件自定义
+
+## 问题
+
+- 安装apk，系统到底做了什么
