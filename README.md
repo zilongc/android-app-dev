@@ -5,6 +5,8 @@ http://www.vogella.com/tutorials/android.html
 
 https://developer.android.com/topic/libraries/architecture/index.html 【官方对应用架构规划】
 
+https://mindorks.com/blogs/android【教程】
+
 ## 知识点
 
 ### 应用的生命周期
