@@ -3,6 +3,7 @@ android 应用开发
 ## 教程
 http://www.vogella.com/tutorials/android.html
 
+https://developer.android.com/topic/libraries/architecture/index.html 【官方对应用架构规划】
 
 ## 知识点
 
