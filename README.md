@@ -26,3 +26,9 @@ https://mindorks.com/blogs/android【教程】
 ## 问题
 
 - 安装apk，系统到底做了什么
+
+## 官方中文视频教程
+
+https://list.youku.com/albumlist/show/id_51314721.html
+
+https://www.youtube.com/playlist?list=PLwv-rHS37fS_f-hjlS7-maXNPcfrPNS8J
